@@ -145,8 +145,6 @@ GROQ_API_KEY=gsk_your_actual_key_here
 GROQ_MODEL=llama-3.3-70b-versatile
 ```
 
-> **Get a free key** → [console.groq.com](https://console.groq.com) → Sign up → API Keys → Create Key
-> Free tier: 14,400 requests/day, 6,000 tokens/minute
 
 ### Step 3 — Launch with Docker
 
@@ -474,14 +472,6 @@ python-dotenv    — .env file loading
 pydantic         — Request/response data validation
 sqlite3          — In-memory SQL database (Python built-in, no install needed)
 ```
-
----
-
-## 👤 Author
-
-Built as part of the **DOTMappers AI Intern Assessment** — 24-hour challenge.
-
-> *"Translating a business problem into a production-grade AI solution."*
 
 ---
 
